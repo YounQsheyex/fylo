@@ -9,14 +9,18 @@
   --error: hsl(0, 100%, 63%);
   --White: hsl(0, 0%, 100%);
 }
-p,a {
+
+h1 {
   font-family: "Raleway", serif;
-  
 }
-h1,
 h2,
 h3,
-h4 {
+h4,
+p,
+a {
   font-family: "Open Sans", serif;
 }
-
+.quote{
+  width: 30px;
+  z-index: index -4;;
+}
